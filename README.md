@@ -7,7 +7,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=Drymartini2199&style=flat-square&color=blue" alt=""/>
 </div>
+
 <!--
 **Drymartini2199/Drymartini2199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
